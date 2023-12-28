@@ -21,7 +21,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/chatbot-gpt.git
+git clone https://github.com/ssdiagne1/GPT4Chatbot
 Navigate to the project directory:
 
 bash
