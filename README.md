@@ -38,3 +38,7 @@ dotnet run
 Usage
 Execute the application, and the chatbot will be ready to receive queries.
 
+**Usage:**
+
+Once the application is running, users can interact with the chatbot by entering queries, and the chatbot will respond with contextually relevant answers, powered by the GPT-3.5 model.
+
